@@ -1,9 +1,10 @@
 {
   "name": "highlight-within-textarea",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "jQuery plugin for highlighting bits of text within a textarea.",
   "main": "jquery.highlight-within-textarea.js",
-  "repository": "https://github.com/lonekorean/highlight-within-textarea.git",
+  "homepage": "https://github.com/lonekorean/highlight-within-textarea",
+  "repository": "https://github.com/eurekaranch/highlight-within-textarea.git",
   "keywords": [
     "ecosystem:jquery",
     "jquery-plugin",
